@@ -10,3 +10,5 @@ dist
 *.ply
 *.obj
 .pypirc
+
+venv
